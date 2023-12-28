@@ -1,1 +1,17 @@
+# Computer Fundamentals
+Operating System, Database Management, Computer Networking - { Scaler Topics, GeeksforGeeks, Udemy }
 
+# Behavioural
+Gayle Laakmann McDowell, Gregory Caremans - { Workout, Running, Violence, Language }
+
+# Software Design
+Scaler Topics, GeeksforGeeks, Udemy
+
+# Open Source Contributions
+Linux, GitHub, Visual Studio, Docker Kubernetes, FAANG Codebases, FAANG Projects { Web Development Based }
+
+# Tech Stack Frameworks
+Scaler Topics, GeeksforGeeks, Colt Steele, Apna College, Harkirat Singh
+
+# Programming Data Structures Algorithms
+Scaler Topics, GeeksforGeeks, AlgoExpert, Udemy - { HackerRank, InterviewBit, LeetCode, CodeChef, FreeCodeCamp, TopCoder, CodeForces } 

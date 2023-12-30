@@ -1,1 +1,15 @@
+#Technical Interview
+#DSA System_Design - Learnable Skills - Practice
 
+--> Jumping to solution very early without asking clarifying questions (shows immaturity)
+Questions? a vague, ambigous question,story like, need to extract dsa question from it
+
+--> Not fine coding, syntax error, semicolon missing (hands on coding every day coding)
+
+--> While solving speak out loud, to explain thought process to interviewer (was it rote memorized or made up solution)
+if you have seen question, tell them you have seen the question
+
+--> Interviewer taking notes of characterstics, like coding speed, follow up questions (sees approach), give hints can you catch them
+can you dry run the solution, can you debug your code, Time & Space complexity errors
+
+--> Speed is an eliminating factor (interviewer prepared 2 questions, but in time it was able to ask 1)

@@ -2,7 +2,7 @@
 Scaler Topics, GeeksforGeeks, Udemy - { Operating System, Database Management, Computer Networking }
 
 # Behavioral
-Gayle Laakmann McDowell, Gregory Caremans - { Workout, Running, Violence, Language }
+Gayle Laakmann McDowell, Gregory Caremans - { Fitness Explorer, Wildlife Explorer }
 
 # Open Source Contributions
 GitHub, Linux, Visual Studio, Docker Kubernetes - { Codebases, Projects - Development Based }

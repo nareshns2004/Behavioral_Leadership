@@ -2,7 +2,7 @@
 Scaler Topics, GeeksforGeeks, Udemy - { Operating System, Database Management, Computer Networking }
 
 # Behavioral Cultural Fit
-Gayle Laakmann McDowell - { Fitness Explorer, Wildlife Explorer }
+Gayle Laakmann McDowell, Linkedin - { Fitness Explorer, Wildlife Explorer }
 
 # Open Source Contributions
 GitHub, Linux, Visual Studio, Docker Kubernetes

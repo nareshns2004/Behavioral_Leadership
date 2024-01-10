@@ -8,10 +8,10 @@ Gayle Laakmann McDowell - { Fitness Explorer, Wildlife Explorer }
 GitHub, Linux, Visual Studio, Docker Kubernetes
 
 # Tech Stack Frameworks
-Scaler Topics, Udemy, Apna College, Harkirat Singh, FrontendExpert, GeeksforGeeks - { FreeCodeCamp }
+Scaler Topics, Udemy, Apna College, Harkirat Singh, FrontendExpert, GeeksforGeeks - { FreeCodeCamp, TopCoder }
 
 # Software Design
 Scaler Topics, Udemy, SystemsExpert, GeeksforGeeks
 
 # Programming Data Structures Algorithms
-Scaler Topics, Udemy, AlgoExpert - { HackerRank, InterviewBit, GeeksforGeeks, LeetCode, CodeChef, TopCoder, CodeForces }
+Scaler Topics, Udemy, AlgoExpert - { HackerRank, InterviewBit, GeeksforGeeks, LeetCode, CodeChef, CodeForces }

@@ -8,10 +8,10 @@ Gayle Laakmann McDowell
 GitHub, Linux, Visual Studio, Docker Kubernetes
 
 # Tech Stack Frameworks
-MERN Stack { HTML, CSS <Bootstrap, Tailwind>, Javascript <Typescript>, ReactJS,  ExpressJS, NodeJS, MongoDB <SQL, NoSQL> }
+MERN Stack { HTML, CSS <Bootstrap, Tailwind>, Javascript <Typescript>, ReactJS,  ExpressJS, NodeJS, MongoDB <SQL, MySQL, NoSQL> }
 
 # Software Design
 HLD { System Design }, LLD { OOPS Design }
 
 # Programming Data Structures Algorithms
-C, C++, Java, Python, Data Structures Algorithms, Problem Solving, Competitive Programming
+C, C++, Java, Python, Data Structures Algorithms, Problem Solving

@@ -1,1 +1,36 @@
+# Computer Fundamentals
+Operating Systems, Database Management, Computer Networking
+{
+Scaler Topics, GeeksforGeeks
+}
 
+# Behavioral Cultural Fit
+Googlyness
+{
+Gayle Laakmann McDowell, Gregory Caremans
+}
+
+# Open Source Contributions
+GitHub, Linux
+{
+Scaler Topics, Udemy, GeeksforGeeks
+}
+
+# Tech Stack Frameworks
+MERN Stack { HTML, CSS <Bootstrap, Tailwind>, Javascript <Typescript>, ReactJS,  ExpressJS, NodeJS, MongoDB <SQL, MySQL, NoSQL> }
+{
+JavaScript --> Scaler Topics, Udemy, freeCodeCamp, GeeksforGeeks, Leetcode, Hackerrank, Codechef, InterviewBit, AlgoExpert, Codeforces
+}
+
+# Software Design
+HLD { System Design }, LLD { OOPS Design }
+{
+Scaler Topics, Udemy, GeeksforGeeks
+}
+
+# Programming Data Structures Algorithms
+C, C++, Java, Python, Data Structures Algorithms
+{
+Java --> Scaler Topics, Apna College, Udemy, GeeksforGeeks, Leetcode, Hackerrank, Codechef, InterviewBit, AlgoExpert, Codeforces
+C++ --> Scaler Topics, Udemy, GeeksforGeeks, Leetcode, Hackerrank, Codechef, InterviewBit, AlgoExpert, Codeforces
+} 

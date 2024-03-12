@@ -21,3 +21,5 @@ can you dry run the solution, can you debug your code, Time & Space complexity e
 3. Read More Code
 4. Contribute to open-source projects
 5. Meet ups and conferences
+
+https://www.youtube.com/playlist?list=PLHxfQ_8ZGgmmK6BB4cKbXx6AM2H1ugfhB

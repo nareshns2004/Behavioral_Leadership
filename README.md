@@ -1,1 +1,1 @@
-Vision, Communication, Collaboration, Management etc
+Collaboration, Communication, Management, Vision etc

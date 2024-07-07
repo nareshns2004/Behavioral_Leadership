@@ -1,1 +1,1 @@
-Team Work, Verbal & Non-Verbal Communication etc
+Vision, Communication, Collaboration, Management etc

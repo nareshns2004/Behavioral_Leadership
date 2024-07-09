@@ -1,1 +1,1 @@
-Collaboration, Communication, Management, Vision etc
+Creativity, Communication, Collaboration, Management, Vision, Impact etc

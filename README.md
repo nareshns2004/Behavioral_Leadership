@@ -1,1 +1,1 @@
-Creativity, Communication, Collaboration, Management, Vision, Impact etc
+Real Life Problem Solving & Scalable (Ideations, Innovations, Solutions) etc

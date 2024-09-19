@@ -1,1 +1,1 @@
-Real Life Problem Solving & Scalable (Ideations, Innovations, Solutions) etc
+Real Life Problem Solving & Scalable (Ideations, Products, Systems) etc

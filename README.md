@@ -1,1 +1,1 @@
-Real Life Problem Solving & Scalable (Ideations, Products, Systems) etc
+<h3><b>Real Life - Issues & Solutions (Instinctual, Psychological, Behavioral) etc</b></h3>
